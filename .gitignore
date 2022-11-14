@@ -1,0 +1,6 @@
+telegram-bot/node_modules
+telegram-bot/.env
+
+whisper-api/__pycache__
+whisper-api/files/*
+!whisper-api/files/.gitkeep
